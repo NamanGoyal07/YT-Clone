@@ -1,5 +1,5 @@
 import './App.css';
-import Header from './Header';
+import Header from './Header.js';
 
 function App() {
   return (
@@ -8,9 +8,7 @@ function App() {
       {/* Header Components */}
       {/* Sidebar Components */}
       {/* Recommended Components */}
-
       <Header />
-
     </div>
   );
 }

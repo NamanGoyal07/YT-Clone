@@ -1,6 +1,6 @@
 import React from 'react';
 import MenuIcon from '@material-ui/icons/Menu';
-// eslint-disable-next-line
+import './Headercss.css'
 import SearchIcon from '@material-ui/icons/Search';
 import VideoCallIcon from '@material-ui/icons/VideoCall';
 import AppsIcon from '@material-ui/icons/Apps';
@@ -9,11 +9,10 @@ import Avatar from '@material-ui/core/Avatar';
 
 function Header() {
     return (
-        <div classname="header">
+        <div className="header">
             {/* Left hand Side Header */}
             <MenuIcon />
-            <img 
-            classname="header__logo" 
+            <img className="header__logo" 
             src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
             alt="" />
 
@@ -21,7 +20,7 @@ function Header() {
             <input type="text" />
             <SearchIcon />
 
-            
+
             {/* Right Side Header */}
             <VideoCallIcon />
             <AppsIcon />
