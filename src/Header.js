@@ -11,21 +11,24 @@ function Header() {
     return (
         <div className="header">
             {/* Left hand Side Header */}
-            <MenuIcon />
-            <img className="header__logo" 
-            src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
-            alt="" />
-
+            <div className="header__left">
+                <MenuIcon />
+                <img className="header__logo" 
+                src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+                alt="" />
+            </div>
             {/* Middle Side Header */}
-            <input type="text" />
-            <SearchIcon />
-
-
+            <div className="header__input">
+                <input type="text" />
+                <SearchIcon />
+            </div>
             {/* Right Side Header */}
-            <VideoCallIcon />
-            <AppsIcon />
-            <NotificationsIcon />
-            <Avatar />
+            <div className="header__icons">
+                <VideoCallIcon />
+                <AppsIcon />
+                <NotificationsIcon />
+                <Avatar />
+            </div>
         </div>
     )
 }
