@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './Header.js';
 import Sidebar from './Sidebar.js';
+import RecommendedVideos from './RecommendedVideos.js';
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
         {/* Sidebar Components */}
         <Sidebar />
 
-        
+        <RecommendedVideos />
         {/* Recommended Components */}
       </div>
 
