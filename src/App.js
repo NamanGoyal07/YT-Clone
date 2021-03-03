@@ -2,6 +2,7 @@ import './App.css';
 import Header from './Header.js';
 import Sidebar from './Sidebar.js';
 import RecommendedVideos from './RecommendedVideos.js';
+import {BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -10,16 +11,30 @@ function App() {
       {/* Header Components */}
       {/* Sidebar Components */}
       {/* Recommended Components */}
+
+      <Router>
       <Header />
-      {/* <Sidebar /> */}
+        <Switch>
+        <Route path="/search">
+          
+            <h1>Search page</h1>
+          </Route>
 
-      <div className="app__page">
-        {/* Sidebar Components */}
-        <Sidebar />
+          <Route path="/">
 
-        <RecommendedVideos />
-        {/* Recommended Components */}
-      </div>
+            {/* <Sidebar /> */}
+
+            <div className="app__page">
+              {/* Sidebar Components */}
+              <Sidebar />
+
+              <RecommendedVideos />
+              {/* Recommended Components */}
+            </div>
+          </Route>
+
+        </Switch>
+      </Router>
 
     </div>
   );
