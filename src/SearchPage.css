@@ -2,4 +2,14 @@
     flex: 0.8;
 }
 
+.searchPage__filter {
+    display: flex;
+    align-items: center;
+    color: #686868;
+    font-size: xx-small !important;
+}
+
+.searchPage__filter > h2 {
+    margin-left: 10px;
+}
 
