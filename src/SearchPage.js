@@ -14,12 +14,17 @@ function SearchPage() {
 
             <ChannelRow
                 image="https://yt3.ggpht.com/yti/ANoDKi4H2giODBfCok8gc4zZcy9q0DjdckXPE21-HIBDEA=s88-c-k-c0x00ffffff-no-rj-mo"
-                Channel="Naman Goyal"
+                channel="Naman Goyal"
                 verified
                 subs="2K"
                 noOfVideo= {2}
                 description="This is my Youtube Channel, I'm from IITG."
-            />
+            /> 
+
+            <hr />
+
+            {/* <VideoRow /> */}
+
         </div>
     )
 }
