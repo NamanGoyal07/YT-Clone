@@ -99,9 +99,7 @@ function RecommendedVideos() {
                     channelimage="https://yt3.ggpht.com/yti/ANoDKi4H2giODBfCok8gc4zZcy9q0DjdckXPE21-HIBDEA=s88-c-k-c0x00ffffff-no-rj-mo"
                     image = "https://i9.ytimg.com/vi/9z7LIvwwOrQ/mqdefault.jpg?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLAAmtJf5rJ9mCg8YQFRnKmQAaR1lw"
                 />
-
             </div>
-
         </div>
     )
 }
