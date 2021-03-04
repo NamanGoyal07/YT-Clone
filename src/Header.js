@@ -38,7 +38,10 @@ function Header() {
                 <VideoCallIcon className="header__icon" />
                 <AppsIcon className="header__icon" />
                 <NotificationsIcon className="header__icon" />
-                <Avatar />
+                <Avatar
+                src = "https://yt3.ggpht.com/yti/ANoDKi4H2giODBfCok8gc4zZcy9q0DjdckXPE21-HIBDEA=s88-c-k-c0x00ffffff-no-rj-mo"
+                alt = ""
+                />
             </div>
         </div>
     )

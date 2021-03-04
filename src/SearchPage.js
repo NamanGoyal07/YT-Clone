@@ -30,7 +30,7 @@ function SearchPage() {
             timestamp="3 days ago"
             channel="Naman Goyal"
             title="Real Time ChatCord"
-            image="https://i9.ytimg.com/vi/HCZkwoGw38M/mq2.jpg?sqp=CMTl_IEG&rs=AOn4CLCFhBvS56LVYklHBDI8Nqim1yREVw"
+            image="https://i9.ytimg.com/vi_webp/HCZkwoGw38M/mqdefault.webp?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLArWB4ULzh_RUKpsjLJnZHUyF5X4g"
             />
 
             <VideoRow 
@@ -39,7 +39,61 @@ function SearchPage() {
             timestamp="5 days ago"
             channel="Naman Goyal"
             title="Virtual Memory Concept"
-            image="https://i9.ytimg.com/vi/9z7LIvwwOrQ/mqdefault.jpg?time=1614754500000&sqp=CMTl_IEG&rs=AOn4CLB4wmLFuNdQvPJP0aCeV04_shp9PQ"
+            image="https://i9.ytimg.com/vi/9z7LIvwwOrQ/mqdefault.jpg?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLAAmtJf5rJ9mCg8YQFRnKmQAaR1lw"
+            />
+
+            <VideoRow 
+            views="2.3M views"
+            description="This is a Real Time ChatCord with rooms for chat"
+            timestamp="3 days ago"
+            channel="Naman Goyal"
+            title="Real Time ChatCord"
+            image="https://i9.ytimg.com/vi_webp/HCZkwoGw38M/mqdefault.webp?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLArWB4ULzh_RUKpsjLJnZHUyF5X4g"
+            />
+
+            <VideoRow 
+            views="4.5M views"
+            description="My explaination about the Virtual Memory Concept in Linux"
+            timestamp="5 days ago"
+            channel="Naman Goyal"
+            title="Virtual Memory Concept"
+            image="https://i9.ytimg.com/vi/9z7LIvwwOrQ/mqdefault.jpg?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLAAmtJf5rJ9mCg8YQFRnKmQAaR1lw"
+            />
+
+            <VideoRow 
+            views="2.3M views"
+            description="This is a Real Time ChatCord with rooms for chat"
+            timestamp="3 days ago"
+            channel="Naman Goyal"
+            title="Real Time ChatCord"
+            image="https://i9.ytimg.com/vi_webp/HCZkwoGw38M/mqdefault.webp?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLArWB4ULzh_RUKpsjLJnZHUyF5X4g"
+            />
+
+            <VideoRow 
+            views="4.5M views"
+            description="My explaination about the Virtual Memory Concept in Linux"
+            timestamp="5 days ago"
+            channel="Naman Goyal"
+            title="Virtual Memory Concept"
+            image="https://i9.ytimg.com/vi/9z7LIvwwOrQ/mqdefault.jpg?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLAAmtJf5rJ9mCg8YQFRnKmQAaR1lw"
+            />
+
+            <VideoRow 
+            views="2.3M views"
+            description="This is a Real Time ChatCord with rooms for chat"
+            timestamp="3 days ago"
+            channel="Naman Goyal"
+            title="Real Time ChatCord"
+            image="https://i9.ytimg.com/vi_webp/HCZkwoGw38M/mqdefault.webp?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLArWB4ULzh_RUKpsjLJnZHUyF5X4g"
+            />
+
+            <VideoRow 
+            views="4.5M views"
+            description="My explaination about the Virtual Memory Concept in Linux"
+            timestamp="5 days ago"
+            channel="Naman Goyal"
+            title="Virtual Memory Concept"
+            image="https://i9.ytimg.com/vi/9z7LIvwwOrQ/mqdefault.jpg?time=1614858900000&sqp=CJSVg4IG&rs=AOn4CLAAmtJf5rJ9mCg8YQFRnKmQAaR1lw"
             />
 
         </div>
